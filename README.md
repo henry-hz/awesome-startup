@@ -14,32 +14,27 @@ Startup Organization
 * [validation-done-right](https://medium.com/@jackrobertscott/startup-validation-done-right-6c7c62229e9)
 * [quick-validation](https://medium.com/swlh/the-quick-and-dirty-guide-to-validating-your-startup-idea-c6be6cd91f51)
 * [10-ways](https://www.productplan.com/lean-market-validation-10-ways-rapidly-test-startup-idea/)
-
-
-
-**Tools**
-
 * [idea check](https://www.ideacheck.io) - software to validate your idea
 
 
 ## Product Management
 
 * [become-a-product-manager](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/)
+* [product-board](https://www.productboard.com) - app to manage your product
 
-**Tools**
 
-* [product-board](https://www.productboard.com)
+## Project Management
+
 
 
 ## UX
 
 * [udemy-ultimate-guide](https://www.udemy.com/course/ultimate-guide-to-ux/)
 * [ux-adobe](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/)
-
-
-**Tools**
-
+* [25-tools](https://mopinion.com/top-25-tools-for-ux-designers/)
 * [uxpin](https://www.uxpin.com)
+* [mockflow](https://www.mockflow.com) - app to create a quick ux
+* [figma](https://www.figma.com) - app to create 
 
 
 ## Design
@@ -65,6 +60,7 @@ Startup Organization
 
 ## Server Side
 
+* [elixir-in-a-team](https://github.com/henry-hz/elixir-in-a-team) - amazing resource
 
 
 
@@ -93,4 +89,5 @@ Startup Organization
 
 ## Data Science
 
+* [data-camp](http://datacamp.com) - best place to study
 
