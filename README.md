@@ -1,6 +1,8 @@
-Startup Organization
-====================
+Awesome Startup
+===============
 
+This is an opinated list of resources on the knowledge and tools to build an
+startup.
 
 
 ## Idea Validation
@@ -39,6 +41,16 @@ Startup Organization
 
 ## Design
 
+Everyone should understand what is design, it's what will make your company
+efficient, you design teams, sites, etc... it's all about general rules.
+
+Design is a funny word. Some people think design means how it looks. But of
+course, if you dig deeper, it’s really how it works. [Steve Jobs]
+
+* [rthoric](http://classics.mit.edu/Aristotle/rhetoric.1.i.html) - aristole 350 BCE book
+* [semiotic-for-beginers](http://www.visual-memory.co.uk/daniel/Documents/S4B/)
+* [steve-jobs-on-design](https://fs.blog/2012/04/steve-jobs-on-design/)
+
 
 
 ## UI
@@ -49,6 +61,10 @@ Startup Organization
 
 ## Architecture
 
+Start monolith, and move to micro-services when you become 1/50 of the size of
+netflix... micro-services from scratch is suicide.
+
+* [microservices-madness](https://dwmkerr.com/the-death-of-microservice-madness-in-2018/)
 * [mono-services-elixir](http://tjheeta.github.io/2016/12/16/dawn-of-the-microlith-monoservices-microservices-with-elixir/)
 * [micro-services](https://microservices.io/patterns/microservices.html)
 * [martin-on-micro-services](https://martinfowler.com/articles/microservices.html)
