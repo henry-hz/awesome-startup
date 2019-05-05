@@ -17,7 +17,7 @@ Startup Organization
 
 
 
-** Tools **
+**Tools**
 
 * [idea check](https://www.ideacheck.io) - software to validate your idea
 
@@ -26,7 +26,7 @@ Startup Organization
 
 * [become-a-product-manager](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/)
 
-** Tools **
+**Tools**
 
 * [product-board](https://www.productboard.com)
 
