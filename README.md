@@ -5,6 +5,9 @@ This is an opinated list of resources on the knowledge and tools to build an
 startup.
 
 
+http://3w443wbase2usral2a501rdc-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/how-start-a-startup-infographic.png
+
+
 ## Idea Validation
 
 * [validation-framework](https://medium.com/swlh/the-startup-framework-to-validate-your-idea-before-you-spend-1-5c475a3bbd6f)
